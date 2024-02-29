@@ -26,7 +26,7 @@ url: "http://jolinaminezes.com" # the base hostname & protocol for your site, e.
 github_username: Jolina1205
 
 # Build settings
-theme:  Merlot
+theme:  minima
 plugins:
   - jekyll-feed
 
